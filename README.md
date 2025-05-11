@@ -31,6 +31,20 @@
       8.mp4
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <video src="videos/model_b_1.mp4" controls width="300"></video><br/>
+      model_b_1.mp4
+    </td>
+    <td align="center">
+      <video src="videos/model_b_2.mp4" controls width="300"></video><br/>
+      model_b_2.mp4
+    </td>
+    <td align="center">
+      <video src="videos/model_b_3.mp4" controls width="300"></video><br/>
+      model_b_3.mp4
+    </td>
+  </tr>
 </table>
 
 ---
