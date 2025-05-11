@@ -5,8 +5,7 @@
 <table>
   <tr>
     <td align="center">
-      <video src="[wan_results/1.mp4](https://headinclouds778.github.io/video_generation_results/wan_results/1.mp4
-)" controls width="300"></video><br/>
+      <video src="https://headinclouds778.github.io/video_generation_results/wan_results/1.mp4" controls width="300"></video><br/>
       1.mp4
     </td>
     <td align="center">
