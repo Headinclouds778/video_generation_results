@@ -35,7 +35,7 @@
 
 ---
 
-<video src="[链接.mp4](https://github.com/user-attachments/assets/0e4f1516-8785-471c-a34a-e0380e563e20)" width="100%" controls autoplay loop muted></video>
+<video src="https://github.com/user-attachments/assets/0e4f1516-8785-471c-a34a-e0380e563e20" width="100%" controls autoplay loop muted></video>
 
 
 ## 模型名称：Model B
