@@ -55,18 +55,18 @@
 
 ---
 
-<video src="https://github.com/user-attachments/assets/0e4f1516-8785-471c-a34a-e0380e563e20" width="100%" controls autoplay loop muted></video>
+<video src="https://github.com/user-attachments/assets/0e4f1516-8785-471c-a34a-e0380e563e20" width="300" controls autoplay loop muted></video>
 
 <table>
   <tr>
     <td align="center">
-      <video src="https://github.com/user-attachments/assets/0e4f1516-8785-471c-a34a-e0380e563e20" width="100%" controls autoplay loop muted></video>
+      <video src="https://github.com/user-attachments/assets/0e4f1516-8785-471c-a34a-e0380e563e20" width="300" controls autoplay loop muted></video>
     </td>
     <td align="center">
-      <video src="https://github.com/user-attachments/assets/0e4f1516-8785-471c-a34a-e0380e563e20" width="100%" controls autoplay loop muted></video>
+      <video src="https://github.com/user-attachments/assets/0e4f1516-8785-471c-a34a-e0380e563e20" width="300" controls autoplay loop muted></video>
     </td>
     <td align="center">
-      <video src="https://github.com/user-attachments/assets/0e4f1516-8785-471c-a34a-e0380e563e20" width="100%" controls autoplay loop muted></video>
+      <video src="https://github.com/user-attachments/assets/0e4f1516-8785-471c-a34a-e0380e563e20" width="300" controls autoplay loop muted></video>
     </td>
   </tr>
 </table>
