@@ -1,7 +1,7 @@
 # 视频模型展示
 
 ## 模型名称：Wan2.1-T2V-14B
-
+### API
 <table>
   <tr>
     <td align="center">
@@ -42,6 +42,50 @@
     </td>
   </tr>
 </table>
+
+### Base模型（本地跑）
+
+<table>
+  <tr>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/b291cf15-d58b-48d7-860d-c7d1be229545" controls width="300"></video><br/>
+    </td>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/21a54683-be50-45be-b570-f75c52ea7be6" controls width="300"></video><br/>
+    </td>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/bdc95491-7869-45bc-ae08-5376a957caac" controls width="300"></video><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/f63ff4a0-ef33-4f3f-9682-67e26dd8c3fd" controls width="300"></video><br/>
+    </td>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/e255dac8-256a-4984-bf58-2bacaff8afaa" controls width="300"></video><br/>
+    </td>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/50c1573b-5399-479a-b677-0015c33233a1" controls width="300"></video><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/66b3ad47-4bf4-4f69-ac06-f2bbcea4ca88" controls width="300"></video><br/>
+    </td>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/e40ce2ef-3174-4221-a3f6-41c7b464fe57" controls width="300"></video><br/>
+    </td>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/4eda80bd-a20d-4b67-9061-4153926f7083" controls width="300"></video><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/c749e0fa-418c-44af-8a1d-837edc075368" controls width="300"></video><br/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
