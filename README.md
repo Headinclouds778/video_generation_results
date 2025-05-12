@@ -194,7 +194,7 @@
 
 ---
 
-## 模型名称：SkyReels-14B
+## 模型名称：SkyReels-V2-14B
 
 <table>
   <tr>
