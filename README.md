@@ -98,3 +98,49 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 模型名称：IPOC-2B
+
+<table>
+  <tr>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/f19186db-a572-4951-92dd-9df49be916ca" controls width="300"></video>
+    </td>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/105751ba-0551-4150-944e-716c6c282431" controls width="300"></video>
+    </td>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/9013804f-f4f1-4400-b436-540760c608c6" controls width="300"></video>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/54bc4775-ee12-46df-88f9-510e47910e3d" controls width="300"></video>
+    </td>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/a9fdd0d5-c343-4eb1-9760-9f6638bcf51a" controls width="300"></video>
+    </td>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/303856a4-5bf3-44ff-aef5-febcf61a53be" controls width="300"></video>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/b6cd2489-e4b5-4d5b-a4d0-9e98ef72f3e5" controls width="300"></video>
+    </td>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/19ca339a-26d0-4754-9a08-60e09d06d4a7" controls width="300"></video>
+    </td>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/d42daa92-0be5-43bf-a597-e08204798468" controls width="300"></video>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/d0519d23-1739-4180-b606-109bd9a268d0" controls width="300"></video>
+    </td>
+  </tr>
+</table>
