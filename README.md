@@ -55,7 +55,7 @@
 
 ---
 
-## 模型名称：Model B
+## 模型名称：Wan2.1-T2V-1.3B
 
 <table>
   <tr>
@@ -67,6 +67,34 @@
     </td>
     <td align="center">
       <video src="https://github.com/user-attachments/assets/253fc169-4bb8-4242-a80f-9daf963286b6" controls width="300"></video>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/0e4dc8ed-d92e-4817-9bf4-668baa21405f" controls width="300"></video>
+    </td>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/77bd4b87-e5fa-41a5-8785-d5a338aefc1d" controls width="300"></video>
+    </td>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/eac4753c-240a-487e-a79b-0a56fff97f9a" controls width="300"></video>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/04192586-a766-420f-876e-ea1f6e9e7fee" controls width="300"></video>
+    </td>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/e1272cab-d575-47ee-b20b-9427a8219651" controls width="300"></video>
+    </td>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/a5f34ae7-ddf8-4c78-88f0-48138bdb253e" controls width="300"></video>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/45b60de2-69bd-4437-a843-ca14cc0762cf" controls width="300"></video>
     </td>
   </tr>
 </table>
