@@ -190,3 +190,50 @@
     </td>
   </tr>
 </table>
+
+
+---
+
+## 模型名称：SkyReels-14B
+
+<table>
+  <tr>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/df783feb-040d-48fc-a86a-430d8e903228" controls width="300"></video>
+    </td>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/b1b8acfd-a842-41f8-8fd5-52323d214a5f" controls width="300"></video>
+    </td>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/fc8ffd43-9941-4c27-9784-060997af1ea7" controls width="300"></video>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/0836beef-b2b8-41ab-91db-a23fb8b526a1" controls width="300"></video>
+    </td>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/8894ac9c-ed37-40e3-9ca6-fc8b596ca497" controls width="300"></video>
+    </td>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/f7297314-7ef5-4a7a-b5ac-89034fc1ce0f" controls width="300"></video>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/49dd6716-cdc9-4013-9575-0a84ad0f5752" controls width="300"></video>
+    </td>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/43787cfb-a9bf-4ac4-8eab-336547eecf9b" controls width="300"></video>
+    </td>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/cd53d350-0282-47c9-9cea-7b05e1bd22ae" controls width="300"></video>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/4c0ef8d7-11b6-4981-bd9d-2307387c89aa" controls width="300"></video>
+    </td>
+  </tr>
+</table>
